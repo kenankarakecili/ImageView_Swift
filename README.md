@@ -1,9 +1,12 @@
 # KKImageView
 
-KKImageView downloads an image asynchronously from a URL.
+## Key Features
 
-It also allows you to add a placeholder image.
+- Downloads an image asynchronously from a URL.
 
+- Adds a placeholder image (optional).
+
+- Caches downloaded image throughout the app life cycle.
 
 ## How to import
 
